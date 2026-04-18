@@ -24,3 +24,5 @@ This repo contains assignments given in week-8. The assignments are written in P
 [`Day 46 (Wednesday) - Assignment`](./wednesday/README.md)
 
 [`Day 47 (Thursday) - Assignment`](./thursday/README.md)
+
+[`Day 48 (Friday) - Assignment`](./friday/README.md)
